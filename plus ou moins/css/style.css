@@ -1,0 +1,28 @@
+h1 {
+    color: orangered;
+    font-size: 45px;
+    font-family: Chalkduster, fantasy;
+}
+
+.description {
+    font-size: 20px;
+    color: orange;
+    font-family: Chalkduster, fantasy;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+#envoyer:hover {
+    font-size: 30px;
+}
+
+#recommencer:hover {
+    font-size: 30px;
+}
+
